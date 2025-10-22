@@ -1,1 +1,2 @@
 i am file to fix the bug of the code
+fixed another bug
