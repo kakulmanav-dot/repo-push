@@ -1,4 +1,7 @@
-this is my first file
-comit chnages
-added chnages to file 1
-hello
+cd one means we are in the folder one
+git config --global user.email "gmail"  this set the gmail 
+git config --global user.name "name" this set the name
+git config --list  this will show the setting i did
+git init 
+git add <filename>
+git commit -m "thing u want to add"
