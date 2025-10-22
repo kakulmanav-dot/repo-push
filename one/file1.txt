@@ -5,3 +5,4 @@ git config --list  this will show the setting i did
 git init 
 git add <filename>
 git commit -m "thing u want to add"
+2023 gone
